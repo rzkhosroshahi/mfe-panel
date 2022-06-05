@@ -1,0 +1,9 @@
+[submodule "mfe-host-panel"]
+	path = mfe-host-panel
+	url = https://github.com/rzkhosroshahi/mfe-host-panel
+[submodule "storage-react"]
+	path = storage-react
+	url = https://github.com/rzkhosroshahi/storage-react
+[submodule "ecc-vue"]
+	path = ecc-vue
+	url = https://github.com/rzkhosroshahi/ecc-vue
